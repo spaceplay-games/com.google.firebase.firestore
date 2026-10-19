@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: d17c0de66ad342e1b03c7045e942545e
+guid: 69df2d79fb3b4203b0349f33bf76ee85
 labels:
 - gvh
-- gvh_version-13.17.0
-- gvhp_exportpath-Plugins/tvOS/Firebase/libFirebaseCppFirestore.a
+- gvh_version-14.0.0
+- gvhp_exportpath-Plugins/iOS/Firebase/libFirebaseCppFirestore.xcframework
 timeCreated: 1480838400
 PluginImporter:
   serializedVersion: 1
@@ -67,12 +67,12 @@ PluginImporter:
       settings:
         CPU: AnyCPU
     iOS:
-      enabled: 0
+      enabled: 1
       settings:
         CompileFlags:
         FrameworkDependencies:
     tvOS:
-      enabled: 1
+      enabled: 0
       settings:
         CompileFlags:
         FrameworkDependencies:
